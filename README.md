@@ -1,15 +1,22 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunjo01)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**bunjo01/bunjo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, [First Last Name] 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me:
+- **LinkedIn**: [Nemanja Pokornic](https://www.linkedin.com/in/nemanja-pokorni%C4%87-81418725b/)
+- **Email**: [nemanja.pokornic02@gmail.com](mailto:nemanja.pokornic02@gmail.com)
+
+## 🛠 Tech Stack
+- **Programming Languages**: [Go, Java, Python, Rust, Javascript]
+- **Frontend Development**: [Angular, React, HTML/CSS]
+- **Databases**: [MySQL, SQLlite, MongoDB, Cassandra]
+
+## 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bunjo01&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
+
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/bunjo01)
+[![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)](https://github.com/bunjo01?tab=repositories)
