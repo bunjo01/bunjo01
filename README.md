@@ -27,6 +27,6 @@ Welcome to my GitHub profile!
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bunjo01&layout=compact&theme=radical)
 
----
+--
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
