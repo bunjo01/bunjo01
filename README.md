@@ -10,7 +10,6 @@ Welcome to my GitHub profile!
   ![GO](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
   ![JAVA](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
   ![PYTHON](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![RUST](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
   ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 - **Frameworks**:
