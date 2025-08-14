@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ### 🌐 Connect with me:
-- **LinkedIn**: [Nemanja Pokornic](https://www.linkedin.com/in/nemanja-pokorni%C4%87-81418725b/)
+- **LinkedIn**: [Nemanja Pokornic](https://www.linkedin.com/in/nemanja-pokornic)
 - **Email**: [nemanja.pokornic02@gmail.com](mailto:nemanja.pokornic02@gmail.com)
 
 - **Programming Languages**:
